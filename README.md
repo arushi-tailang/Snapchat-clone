@@ -1,3 +1,6 @@
+<p align="center">
+  <h1 align="center">Click-Chat</h1>
+
 <h2 align="center">
   <a href="https://snapchat-clone-ee276.web.app">[LIVE APP]</a>
 </h2>
